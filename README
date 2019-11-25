@@ -1,0 +1,6 @@
+Four image folders are included in submission. 
+
+1). ChessboardImages folder contains images for camera calibration.
+2). DistortionCorrection contains test image relating to distrotion and undistortion.
+3). OutputImages contains various images saved to document stages of project completion.
+4). pipelineGarage contains test images on which project pipelines are tested.
